@@ -93,5 +93,9 @@ let a = 1.01;
 
 Math.round(a);
 // 1
+Math.random();
+// outputs a random number between 0 and 1
+Math.round(Math.random()*100);
+// outputs a random number between 0 and 100
 
 ```
