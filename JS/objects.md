@@ -99,3 +99,7 @@ Math.round(Math.random()*100);
 // outputs a random number between 0 and 100
 
 ```
+![image](https://user-images.githubusercontent.com/72389059/203903157-291fe03a-9ece-42c8-b0f0-745291d38aaa.png)
+
+![image](https://user-images.githubusercontent.com/72389059/203904760-741f32f5-45bd-457c-936c-4f76b6e55a71.png)
+
